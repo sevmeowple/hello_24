@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="椭圆_147" data-name="椭圆 147" cx="100" cy="100" r="100" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c0bdba"/>
+      <stop offset="0.523" stop-color="#cac2ba"/>
+      <stop offset="1" stop-color="#9fa4b3"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffee74"/>
+      <stop offset="1" stop-color="#edc3a9"/>
+    </linearGradient>
+  </defs>
+  <g id="寒露" transform="translate(-241.995 -1386.205)">
+    <g id="组_278" data-name="组 278" transform="translate(241.995 1386.205)" clip-path="url(#clip-path)">
+      <rect id="矩形_129" data-name="矩形 129" width="206.078" height="218.272" transform="translate(19.081 -30.399) rotate(9.754)" fill="#edcbae"/>
+      <text id="_" data-name=" " transform="translate(63.5 96.417)" font-size="1" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0"> </tspan></text>
+      <path id="路径_3117" data-name="路径 3117" d="M811.989,1911.731" transform="translate(-669.49 -1780.349)" fill="#d19c46"/>
+      <text id="寒露_" data-name="寒露。" transform="translate(142.488 65.652)" fill="#1e1913" font-size="8" font-family="STZhongsong"><tspan x="0" y="0">寒露。</tspan></text>
+      <path id="路径_3118" data-name="路径 3118" d="M918.64,1610.779v-2.168h0v-.75h-2.917v.75h2.165v2.168Z" transform="translate(-747.292 -1552.447)" fill="#1e1913"/>
+      <rect id="矩形_130" data-name="矩形 130" width="210.097" height="62" transform="translate(0 139.949)" fill="url(#linear-gradient)"/>
+      <path id="路径_3119" data-name="路径 3119" d="M228.495,1756.27s4.25-6.25,10.75-3.25,19.5,37.5,31,37.5,9.75-6.5,16.5-6.25,11.25,10.75,20.25,10.75,10.75-4,16.25-3.75,17.5,11.25,17.5,11.25H228.495Z" transform="translate(-231.87 -1660.705)" fill="#ccaf97"/>
+      <path id="路径_3120" data-name="路径 3120" d="M228.495,1999.705s4.25,6.25,10.75,3.25,19.5-37.5,31-37.5,9.75,6.5,16.5,6.25,11.25-10.75,20.25-10.75,10.75,4,16.25,3.75,17.5-11.25,17.5-11.25H228.495Z" transform="translate(-231.87 -1811.642)" fill="#ccaf97" opacity="0.35"/>
+      <path id="路径_3121" data-name="路径 3121" d="M717.745,1849.27s-4.25-6.25-10.75-3.25-19.5,37.5-31,37.5-9.75-6.5-16.5-6.25-11.25,10.75-20.25,10.75-10.75-4-16.25-3.75-17.5,11.25-17.5,11.25h112.25Z" transform="translate(-514.62 -1730.455)" fill="#ccaf97"/>
+      <path id="路径_3122" data-name="路径 3122" d="M717.745,2092.664s-4.25,6.25-10.75,3.25-19.5-37.5-31-37.5-9.75,6.5-16.5,6.25-11.25-10.75-20.25-10.75-10.75,4-16.25,3.75-17.5-11.25-17.5-11.25h112.25Z" transform="translate(-514.62 -1881.362)" fill="#ccaf97" opacity="0.35"/>
+      <circle id="椭圆_146" data-name="椭圆 146" cx="10.218" cy="10.218" r="10.218" transform="translate(38.861 33.723)" fill="url(#linear-gradient-2)"/>
+      <path id="路径_3123" data-name="路径 3123" d="M690.926,1864.7a8.55,8.55,0,0,1,6.023,1.345s3.638-3.21,6.206-3.241c0,0-3.944-1.529-6.115.948C697.041,1863.757,692.363,1862.625,690.926,1864.7Z" transform="translate(-578.693 -1743.308)" fill="#483422"/>
+      <path id="路径_3124" data-name="路径 3124" d="M572.429,1797.263a6.856,6.856,0,0,1,4.647,1.7s3.227-2.172,5.272-1.927c0,0-2.976-1.627-4.96.114C577.389,1797.148,573.789,1795.76,572.429,1797.263Z" transform="translate(-489.82 -1693.809)" fill="#483422"/>
+      <path id="路径_3125" data-name="路径 3125" d="M770.649,1779.379a4.573,4.573,0,0,1,3.259.524s1.839-1.831,3.209-1.93c0,0-2.155-.689-3.234.7C773.883,1778.676,771.349,1778.223,770.649,1779.379Z" transform="translate(-638.485 -1679.903)" fill="#483422"/>
+      <path id="路径_3126" data-name="路径 3126" d="M552.359,2008.209s7.446-1.732,9.083-4.9C561.443,2003.311,562.764,2013.185,552.359,2008.209Z" transform="translate(-474.768 -1849.035)" fill="#efb86f"/>
+      <path id="路径_3127" data-name="路径 3127" d="M811,1931.828s5.064,2.249,7.438.366C818.441,1932.194,814.733,1941.284,811,1931.828Z" transform="translate(-668.751 -1795.422)" fill="#efb86f"/>
+      <path id="路径_3128" data-name="路径 3128" d="M458.2,2082.732s3.664-3.261,6.167-.5C464.371,2082.232,463.5,2086.505,458.2,2082.732Z" transform="translate(-404.152 -1907.393)" fill="#efb86f"/>
+      <path id="路径_3129" data-name="路径 3129" d="M724.1,2123.75s-1.481,7.181-6.946,6.105C717.15,2129.855,714.383,2123.951,724.1,2123.75Z" transform="translate(-598.088 -1939.364)" fill="#efb86f"/>
+    </g>
+  </g>
+</svg>
